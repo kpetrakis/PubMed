@@ -1,0 +1,7 @@
+drive/
+#data/len256
+#data/len512
+#data/raw
+__pycache__/
+*/__pycache__/
+#weights/

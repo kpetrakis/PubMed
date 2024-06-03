@@ -1,0 +1,16 @@
+{
+  0: "Anatomy [A]",
+  1: "Organisms [B]",
+  2: "Diseases [C]",
+  3: "Chemicals and Drugs [D]",
+  4: "Analytical, Diagnostic and Therapeutic Techniques, and Equipment [E]" ,
+  5: "Psychiatry and Psychology [F]",
+  6: "Phenomena and Processes [G]",
+  7: "Disciplines and Occupations [H]", 
+  8: "Anthropology, Education, Sociology, and Social Phenomena [I]",
+  9: "Technology, Industry, and Agriculture [J]",
+  10: "Information Science [L]",
+  11: "Named Groups [M]",
+  12: "Health Care [N]",
+  13: "Geographicals [Z]", 
+}
