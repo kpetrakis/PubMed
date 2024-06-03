@@ -4,7 +4,7 @@
 
 ```bash
 git clone  https://github.com/kpetrakis/PubMed.git
-cd 
+cd PubMed
 virtualenv venv_name
 source venv_name/bin/activate
 pip install -r requirements.txt
@@ -24,13 +24,13 @@ python3 -m venv venv_name
 
 ## Reproducibility
 
-Either download "PubMed Multi Label Text Classification Dataset Processed.csv" and place it in data/raw and run 
+Either download "PubMed Multi Label Text Classification Dataset Processed.csv" place it in data/raw and run
 
 ```bash
 python parse_data.py
 ```
 
-This will create the train dev and test data tensors.
+This will create the train/ dev/ and test/ data tensors.
 
 Or you can download those tensors directly from the Google Drive link in the report.
 
